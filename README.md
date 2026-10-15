@@ -1,0 +1,2 @@
+# ScamCheck-
+Protect yourself
